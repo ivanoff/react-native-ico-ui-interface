@@ -1,6 +1,6 @@
-# react-native-ico-ui-interface
+# UI Interface Icons for React Native
 
-### UI Interface Icons for React Native
+### react-native-ico-ui-interface
 
 168 Icons
 
@@ -13,15 +13,19 @@ import Icon from 'react-native-ico-ui-interface';
 // Inside some view component
 render() {
     return (
-        <Fragment>
+        <>
           <Icon name="play" />
           <Icon name="monitor" height="40" width="40" />
           <Icon name="wifi" color="red" />
-        </Fragment>
+        </>
     );
 }
 
 ```
+
+## List of icons
+
+- [List of UI Interface Icons](static/ui-interface.md)
 
 ## Installation
 
@@ -63,13 +67,9 @@ width | yes | 20 | width of the icon | 40
 height | yes | 20 | height of the icon | 40
 ...rest | no | | other props | style={{backgroundColor: "#00f"}}
 
-## List of icons
-
-- [List of UI Interface Icons](static/ui-interface.md)
-
 ## Icons Made by
 
-[Dave Gandy](https://www.flaticon.com/authors/dave-gandy)
+[Freepik](https://www.flaticon.com/authors/freepik)
 
 ## Created by
 
