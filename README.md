@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of UI Interface Icons](static/ui-interface.md)
+- [List of UI Interface Icons](http://ico.simpleness.org/pack/ui-interface)
 
 ## Installation
 
