@@ -1,8 +1,8 @@
-# ui interface Icons for React Native
+# Ui Interface Icons for React Native
 
 ### react-native-ico-ui-interface
 
-369 Icons
+168 Icons
 
 ## Usage
 
@@ -25,7 +25,7 @@ render() {
 
 ## List of icons
 
-- [List of ui interface Icons](http://ico.simpleness.org/pack/ui-interface)
+- [List of Ui Interface Icons](http://ico.simpleness.org/pack/ui-interface)
 
 ## Installation
 
